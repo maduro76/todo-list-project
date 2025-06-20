@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>To-Do List</title>
+<link rel="stylesheet" href="todo-styles.css" />
+</head>
+<body>
+  <main id="todo-container">
+    <header id="todo-header">
+      <h1>To-Do List</h1>
+    </header>
+    <section id="todo-form">
+      <input
+        type="text"
+        class="input-item"
+        name="input_box"
+        id="input-box"
+        placeholder="Add Task"
+      />
+      <button id="input-button" type="button">Add</button>
+    </section>
+    <h2>Task List</h2>
+    <ul id="list-container"></ul>
+    <hr />
+    <div class="counter-container">
+    Completed Tasks:&nbsp;<span id="completed-count">0</span>&nbsp;|&nbsp;Uncompleted Tasks:&nbsp;<span id="uncompleted-count">0</span>
+    </div>
+    <button id="logout-button" aria-label="Log out">Log Out</button>
+  </main>
+<script type="text/javascript" src="todo-script.js" defer></script>
+</body>
+</html>
+
