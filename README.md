@@ -59,7 +59,9 @@ This project simplifies building a complete todo app with integrated backend and
 - 🚀 **Modular Architecture:** Easy to customize and extend for your specific needs.
 
 Small and fast demonstration of a project:
-[< Uploading "2025-06-20 20-09-22.mp4"...>](https://github.com/user-attachments/assets/a97cab3d-2d13-40cb-adcd-69dcb25c47bd)
+
+[https://github.com/user-attachments/assets/a97cab3d-2d13-40cb-adcd-69dcb25c47bd](https://github.com/user-attachments/assets/a97cab3d-2d13-40cb-adcd-69dcb25c47bd)
+
 ---
 
 ## 📌 Features
