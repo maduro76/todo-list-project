@@ -1,14 +1,5 @@
 <div id="top">
 
-<!-- HEADER STYLE: CLASSIC -->
-<div align="center">
-
-<img src="todo-list-project.png" width="30%" style="position: relative; top: 0; right: 0;" alt="Project Logo"/>
-
-# TODO-LIST-PROJECT
-<div id="top">
-
-<!-- HEADER STYLE: CLASSIC -->
 <div align="center">
 
 
