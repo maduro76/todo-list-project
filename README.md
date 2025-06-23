@@ -38,8 +38,6 @@
     - [Project Index](#-project-index)
 - [Roadmap](#-roadmap)
 - [Contributing](#-contributing)
-- [License](#-license)
-- [Acknowledgment](#-acknowledgment)
 
 ---
 
@@ -266,8 +264,6 @@ npm test
    </a>
 </p>
 </details>
-
----
 
 <div align="left"><a href="#top">⬆ Return</a></div>
 
