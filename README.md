@@ -269,16 +269,6 @@ npm test
 
 ---
 
-## 📜 License
-
-Todo-list-project is protected under the [LICENSE](https://choosealicense.com/licenses) License. For more details, refer to the [LICENSE](https://choosealicense.com/licenses/) file.
-
----
-
-## ✨ Acknowledgments
-
-- Credit `contributors`, `inspiration`, `references`, etc.
-
 <div align="left"><a href="#top">⬆ Return</a></div>
 
 ---
